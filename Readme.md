@@ -1,7 +1,7 @@
 # Agile Project Management with Scrum - Ken Schwaber (2004)
 
 This is a latex summary of Ken Schwaber's Agile Project Management with Scrum written in 2004.
-It was used as preparation for the certification PSM I.
+It was used as preparation for the certification exam PSM I.
 
 <br/>
 
